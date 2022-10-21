@@ -2,8 +2,6 @@
 
 # Métodos propios
 
-from os import listxattr
-
 
 lista=[45, 32,3,78]
 print("Lista original: ", lista)
