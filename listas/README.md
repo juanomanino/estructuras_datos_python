@@ -2,7 +2,7 @@
 
 - Son un conjunto ordenado de elementos que puede contener datos de cualquier tipo.
 - Una característica muy importante de las listas es que puede contener elementos de diferentes tipos, por ejemplo un lista puede estar compuesta de cadenas por texto, por números enteros y, por supuesto, por otras listas.
-- Las listas en Python se representan por una serie de elementos separados por comas y delmitados entre corchetes.
+- Las listas en Python se representan por una serie de elementos separados por comas y delimitados entre corchetes.
 - Ejemplo:
 `[56,"Python", "Valeria", 345, 99]`
 - En este caso, la lista esta compuesta por 5 elementos, el número 56, la cadena de texto "Python", la cadena de texto "Valeria", y los números 345 y 99.
